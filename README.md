@@ -3,6 +3,8 @@
 <!--
 **lukasz-stepien-dev/lukasz-stepien-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![lukasz-stepien-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasz-stepien-dev&theme=gruvbox_lightk&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
