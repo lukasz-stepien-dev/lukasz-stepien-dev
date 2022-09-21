@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Interactive Card Form](https://github.com/lukasz-stepien-dev/Interactive-Card-Form).
 
-🌱 I’m currently learning JQuery.
+🌱 I’m currently learning JavaScript.
 
 💬 Are you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
 
