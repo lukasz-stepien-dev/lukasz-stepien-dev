@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning JavaScript.
 
-💬 Are you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
+💬 Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
 
 ## Stats 📊
 
