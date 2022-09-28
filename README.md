@@ -2,9 +2,9 @@
 
 ## **About me** 👀
 
-🔭 I’m currently working on [Interactive Card Form](https://github.com/lukasz-stepien-dev/Interactive-Card-Form).
+🔭 I’m currently working on nothing.
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning Web APIs and Java basics.
 
 💬 Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
 
