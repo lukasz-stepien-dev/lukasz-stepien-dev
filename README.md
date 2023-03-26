@@ -1,4 +1,4 @@
-![Hi! I'm Łukasz and, I'm a Front-End Developer](Banner.png)
+![Hi! I'm Łukasz and, I'm a Front-End Developer](Banner.jpg)
 
 ## **About me** 👀
 
