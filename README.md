@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on nothing.
 
-🌱 I’m currently learning Web APIs and Java basics.
+🌱 I’m currently learning PHP basics.
 
 💬 Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
 
