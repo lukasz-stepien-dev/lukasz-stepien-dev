@@ -2,11 +2,11 @@
 
 ## **About me** 👀
 
-🔭 I’m currently working on nothing.
+<img src="Leafs/Leaf1.png" align="middle" height="50" alt="Leaf"> I’m currently working on nothing.
 
-🌱 I’m currently learning PHP basics.
+<img src="Leafs/Leaf6.png" align="middle" height="50" alt="Leaf"> I’m currently learning PHP basics.
 
-💬 Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
+<img src="Leafs/Leaf3.png" align="middle" height="50" alt="Leaf"> Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
 
 ## Stats 📊
 
