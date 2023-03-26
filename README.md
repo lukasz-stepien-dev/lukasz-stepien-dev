@@ -1,14 +1,14 @@
 ![Hi! I'm Łukasz and, I'm a Front-End Developer](Banner.png)
 
-## **About me** 👀
+## <div align="center">**About me** 👀</div>
 
-<img src="Leafs/Leaf1.png" align="middle" height="50" alt="Leaf"> I’m currently working on nothing.
+<div align="center"><img src="Leafs/Leaf1.png" align="middle" height="50" alt="Leaf"> I’m currently working on nothing.
 
 <img src="Leafs/Leaf6.png" align="middle" height="50" alt="Leaf"> I’m currently learning PHP basics.
 
-<img src="Leafs/Leaf3.png" align="middle" height="50" alt="Leaf"> Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).
+<img src="Leafs/Leaf3.png" align="middle" height="50" alt="Leaf"> Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).</div>
 
-## Stats 📊
+## <div align="center">Stats 📊</div>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasz-stepien-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
