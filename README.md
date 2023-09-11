@@ -2,7 +2,7 @@
 
 ## <div align="center">**About me** 👀</div>
 
-<div align="center"><img src="Leafs/Leaf1.png" align="middle" height="50" alt="Leaf"> I’m currently working on nothing.
+<div align="center"><img src="Leafs/Leaf1.png" align="middle" height="50" alt="Leaf"> I’m currently working on learning php.
 
 <img src="Leafs/Leaf6.png" align="middle" height="50" alt="Leaf"> I’m currently learning PHP basics.
 
