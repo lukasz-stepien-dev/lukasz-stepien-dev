@@ -4,7 +4,7 @@
 
 <div align="center"><img src="Leafs/Leaf1.png" align="middle" height="50" alt="Leaf"> I’m currently working on learning php.
 
-<img src="Leafs/Leaf6.png" align="middle" height="50" alt="Leaf"> I’m currently learning PHP basics.
+<img src="Leafs/Leaf6.png" align="middle" height="50" alt="Leaf"> I’m currently learning NextJS and NodeJS.
 
 <img src="Leafs/Leaf3.png" align="middle" height="50" alt="Leaf"> Do you have a question? You can ask me [here](https://github.com/lukasz-stepien-dev/lukasz-stepien-dev/issues).</div>
 
